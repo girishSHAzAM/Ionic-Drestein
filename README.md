@@ -1,5 +1,5 @@
 The application is hosted through the web with the help of ZEIT NOW.
-To view the page, use link: "https://www.girishn230516.now".
+To view the page, use link: "https://www.girishn230516.now.sh".
 
 *************
 
